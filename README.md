@@ -16,3 +16,5 @@ System.out.println("Hello World")
 Link to Website:[Oklahoma City University](https://www.okcu.edu)
 
 Load Image:
+
+![Golf Photo](golf_photo.jpeg)
